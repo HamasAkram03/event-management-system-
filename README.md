@@ -1,4 +1,7 @@
-Universe Events - University Event Management System
+Universe Events - University Event Management System.
+
+
+
 A comprehensive web-based event management system designed for universities to manage and promote campus events, student registrations, and administrative operations.
 
 🚀 System Overview
